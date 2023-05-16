@@ -36,7 +36,7 @@ function Homs() {
 
       
       let sortedEntry = Object.fromEntries(entry1);  
-      delete sortedEntry["20"];
+      delete sortedEntry["20"]; //this key was a number not string so it was showing up in order even after sorting so I deleted it 
       delete sortedEntry["140"];
       setCount(sortedEntry);
       console.log(Object.entries(word));
