@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TinyTalesProject/static/css/main.620ef921.css",
+    "main.js": "/TinyTalesProject/static/js/main.bc05a2a4.js",
+    "static/js/787.4e0a13dd.chunk.js": "/TinyTalesProject/static/js/787.4e0a13dd.chunk.js",
+    "index.html": "/TinyTalesProject/index.html",
+    "main.620ef921.css.map": "/TinyTalesProject/static/css/main.620ef921.css.map",
+    "main.bc05a2a4.js.map": "/TinyTalesProject/static/js/main.bc05a2a4.js.map",
+    "787.4e0a13dd.chunk.js.map": "/TinyTalesProject/static/js/787.4e0a13dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620ef921.css",
+    "static/js/main.bc05a2a4.js"
+  ]
+}
