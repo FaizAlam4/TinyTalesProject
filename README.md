@@ -1,3 +1,8 @@
+Hosted Online on Github pages :
+https://faizalam4.github.io/TinyTalesProject/
+
+
+
 Components:
 
 #Homs : Home component containing all important details and histogram too
