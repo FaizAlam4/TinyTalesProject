@@ -25,4 +25,26 @@ basic concepts and functions of js are used  like:
 Histogram is used as separate component and hook value is transferred to it with the help of props
 
 
+How to operate?
 
+npm start 
+
+when home page opens there is a fetch button , click on it first then only data will be fetched from the url provided by the company, and then histogram will be made
+
+ scroll more there is an 'export' button below table, click on that to download csv file just as in the table!!
+
+ Contact details: Available in contact page , you can click on that and check
+
+
+
+ Note: flexbox is used intensively to make interface responsive and easy to operate
+ Used where? : In navigation bar , in making histogram
+
+
+ npm modules are used but third party plugins are not used as such.
+
+
+ PUBLISHED:
+
+ I published on github pages itself, check it out
+ 
