@@ -22,6 +22,7 @@ function App() {
       <Routes >
      <Route className='hs' path='/' element={<Homs/>} />
 <Route path='/histogram' element={<Histogram/>}/>
+<Route path='/TinyTalesProject' element={<Homs/>}/>
 <Route path='/contact' element={<Contact/>}/>
 <Route path='/about' element={<About/>}/>
       </Routes>
