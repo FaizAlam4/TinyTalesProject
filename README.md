@@ -2,16 +2,18 @@
 
 
 ### Components:
-
+```
 #Homs : Home component containing all important details and histogram too
+```
 
-#Footer,#Contact, #Detail : Not much used just to make it complete and I used Router links to make it navigatable
+*#Footer,#Contact, #Detail* : Like a dummy components used just to make it complete and I used Router links to make it navigatable
 
 
 **Website is fully responsive ! 
 Use of reacthooks are there** 
 
 React-**csv module was used to download csv** from the table I created using js map()
+
 
 *basic concepts and functions of js are used  like:*
 
