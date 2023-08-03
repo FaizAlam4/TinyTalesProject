@@ -1,6 +1,4 @@
-Hosted Online on Github pages :
-https://faizalam4.github.io/TinyTalesProject/
-
+### Hosted Online on Github pages : https://faizalam4.github.io/TinyTalesProject/
 
 
 Components:
@@ -8,7 +6,6 @@ Components:
 #Homs : Home component containing all important details and histogram too
 
 #Footer,#Contact, #Detail : Not much used just to make it complete and I used Router links to make it navigatable
-
 
 
 Website is fully responsive ! 
@@ -30,20 +27,22 @@ basic concepts and functions of js are used  like:
 Histogram is used as separate component and hook value is transferred to it with the help of props
 
 
-How to operate?
+**How to operate?**
 
-npm start 
+``` npm start //in root directory
+```
 
-when home page opens there is a fetch button , click on it first then only data will be fetched from the url provided by the company, and then histogram will be made
+when home page opens there is a fetch button , click on it first then only data will be fetched from this url of a company : https://www.terriblytinytales.com/test.txt,
+and then histogram will be made(scroll down a bit to see)
 
- scroll more there is an 'export' button below table, click on that to download csv file just as in the table!!
+.. scroll more there is an 'export' button below table, click on that to download csv file just as in the table!!
 
  Contact details: Available in contact page , you can click on that and check
 
 
 
- Note: flexbox is used intensively to make interface responsive and easy to operate
- Used where? : In navigation bar , in making histogram
+**Note: flexbox is used intensively to make interface responsive and easy to operate
+ Used where? : In navigation bar , in making histogram**
 
 
  npm modules are used but third party plugins are not used as such.
